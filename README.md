@@ -1,6 +1,6 @@
 # Circulair Particles
 
-A small and performant particle system. For usage in for example the homepage of a website as a show off. All of the main logic is just about 900 bytes.
+A small and performant particle system. For usage in for example the homepage of a website as a show off. All of the main logic is just about 700 bytes.
 
 # Usage
 
